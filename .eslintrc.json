@@ -22,8 +22,7 @@
     ],
     "rules": {
         "indent": [
-            "error",
-            "tab"
+            "off"
         ],
         "linebreak-style": [
             "error",
@@ -31,11 +30,11 @@
         ],
         "quotes": [
             "error",
-            "double"
+            "single"
         ],
         "semi": [
             "error",
-            "never"
+            "always"
         ]
     }
 }
