@@ -4,11 +4,11 @@ import { StyleSheet, Text, View } from 'react-native';
 const Wellcome = () => {
     return (
         <View>
-            <Text></Text>
+            <Text>teadae</Text>
         </View>
     );
 };
 
 export default Wellcome;
 
-const styles = StyleSheet.create({});
+// const styles = StyleSheet.create({});
